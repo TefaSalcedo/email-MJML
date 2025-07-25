@@ -14,6 +14,8 @@ Este proyecto es un ejemplo de cómo crear un **boletín informativo HTML** usan
 
 Este es un ejemplo de plantilla de correo electrónico diseñada con **MJML** y pensada para usarse con **Brevo** (antes Sendinblue). La estructura es visual, amigable y responsiva.
 
+![Uploading image.png…]()
+
 ---
 
 ## 📄 Estructura general
