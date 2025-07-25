@@ -1,0 +1,88 @@
+<mjml>
+  <mj-body background-color="#f4f4f4" width="600px">
+    <mj-hero mode="fixed-height" height="auto" background-color="#edc7f6ff" padding="0">
+      <mj-text align="center" color="#333333" font-size="24px" font-family="Helvetica" padding="20px"> 🌟 Rinconcito Digital de Estefania 🌟 </mj-text>
+    </mj-hero>
+
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column padding="0">
+        <mj-image src="https://i.pinimg.com/236x/fd/80/f9/fd80f9418ad0d096b8ca3e87bcd40ee1.jpg" alt="Bienvenida" width="200px" border-radius="0px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f8d0f4ff" padding="20px">
+      <mj-column>
+        <mj-text font-size="20px" color="#333333" font-family="Helvetica"> ¡Hola Estefania! 👋 </mj-text>
+        <mj-text font-size="16px" color="#555555" font-family="Helvetica">
+          Este es tu primer correo de prueba creado con <strong>MJML</strong> y enviado con <strong>Brevo</strong>. <br /><br />
+          Estamos orgullosos de ti por dar este paso. Aquí comienza tu camino hacia correos bellamente diseñados.
+        </mj-text>
+        <mj-button background-color="#9F7AEA" color="#ffffff" font-family="Helvetica" href="https://brevo.com" border-radius="4px"> Ver mi campaña </mj-button>
+      </mj-column>
+    </mj-section>
+
+<mj-section background-color="#f0f0f0" padding="0 20px 0 20px">
+  <mj-group>
+    <mj-column width="50%">
+      <mj-text font-size="16px" color="#333333" padding-top="35px">  
+        ¡Bienvenida a mi boletín! <br/>
+        Aquí te comparto mis últimos proyectos,<br/>
+        ideas locas y momentos especiales ✨
+      </mj-text>
+    </mj-column>
+
+    <mj-column width="50%">
+      <mj-image
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhtcXUxeDJpc291YnBsOXB0dzBvZmpjNGl4YmQ1cG1mNXkyZmhtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vVegyymxA90fkY8jkE/giphy.gif"
+        alt="Gif divertido"
+        padding="0"
+        height="200px"
+      />
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+
+    <mj-section
+      background-url="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=800&q=80"
+      background-size="cover"
+      padding="60px 0"
+    >
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px">
+          Una postal desde mi mundo 🌍
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+
+    <mj-section background-color="#f4f4f4" padding="20px">
+  <mj-column>
+    <mj-text align="center" font-size="14px" color="#888888" font-family="Helvetica">
+      Enviado con 💜 por Estefania Salcedo<br />
+      Bogotá, Colombia
+    </mj-text>
+
+    <mj-social font-size="13px" align="center" color="#c03e3eff">
+      <mj-social-element
+        src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
+        href="https://www.facebook.com/tuusuario"
+        alt="Facebook"
+      />
+      <mj-social-element
+        src="https://cdn-icons-png.flaticon.com/512/733/733646.png"
+        href="https://www.instagram.com/tuusuario"
+        alt="Instagram"
+      />
+      <mj-social-element
+        src="https://cdn-icons-png.flaticon.com/512/733/733561.png"
+        href="https://www.linkedin.com/in/tuusuario"
+        alt="LinkedIn"
+      />
+    </mj-social>
+  </mj-column>
+</mj-section>
+
+  </mj-body>
+</mjml>
